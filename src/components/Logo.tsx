@@ -10,7 +10,7 @@ export const Logo: React.FC<LogoProps> = ({ className = "h-12 w-auto", variant =
   const isLight = variant === 'light' || variant === 'outline';
   const isOutline = variant === 'outline';
   
-  const logoSrc = isLight ? '/logo-white.svg' : '/logo.svg';
+  const logoSrc = isLight ? '/tricos-logo-white.svg' : '/tricos-logo.svg';
 
   return (
     <img
