@@ -42,7 +42,10 @@ const resources = {
         email: "Email",
         message: "Message",
         send: "Send Message",
-        address: "401, Ace Gwanggyo Tower 2, 91, Changnyong-daero 256beon-gil, Yeongtong-gu, Suwon-si, Gyeonggi-do"
+        address: "401, Ace Gwanggyo Tower 2, 91, Changnyong-daero 256beon-gil, Yeongtong-gu, Suwon-si, Gyeonggi-do",
+        mapTitle: "Naver Map Link",
+        mapSubtitle: "Click the map to see Tricos' detailed location on Naver Map.",
+        mapButton: "View Detailed Map"
       }
     }
   },
@@ -72,7 +75,7 @@ const resources = {
         title: "주요 서비스",
         consulting: "해외진출컨설팅",
         research: "시장조사",
-        mission: "온/오ф라인 무역사절단",
+        mission: "온/오프라인 무역사절단",
         meeting: "수출상담회(국내/해외)",
         exhibition: "전시회/박람회 참가 지원",
         promotion: "판촉/홍보행사",
@@ -86,7 +89,10 @@ const resources = {
         email: "이메일",
         message: "메시지",
         send: "메시지 보내기",
-        address: "경기도 수원시 영통구 창룡대로256번길 91 에이스광교타워2차 401호"
+        address: "경기도 수원시 영통구 창룡대로256번길 91 에이스광교타워2차 401호",
+        mapTitle: "네이버 지도 링크",
+        mapSubtitle: "지도를 클릭하시면 트리코스의 상세 위치를 네이버 지도에서 확인하실 수 있습니다.",
+        mapButton: "지도상세보기"
       }
     }
   },
@@ -130,7 +136,10 @@ const resources = {
         email: "Электронная почта",
         message: "Сообщение",
         send: "Отправить сообщение",
-        address: "401, Ace Gwanggyo Tower 2, 91, Changnyong-daero 256beon-gil, Yeongtong-gu, Suwon-si, Gyeonggi-do"
+        address: "401, Ace Gwanggyo Tower 2, 91, Changnyong-daero 256beon-gil, Yeongtong-gu, Suwon-si, Gyeonggi-do",
+        mapTitle: "Ссылка на карту Naver",
+        mapSubtitle: "Нажмите на карту, чтобы увидеть подробное местоположение Tricos на карте Naver.",
+        mapButton: "Посмотреть подробную карту"
       }
     }
   }
